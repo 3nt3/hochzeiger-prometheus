@@ -1,5 +1,3 @@
-use std::collections::HashMap;
-
 use crate::hochzeiger;
 use crate::hochzeiger::models::SlopeStatus;
 use crate::util::{output_lifts, output_slopes};
@@ -27,8 +25,15 @@ pub async fn get_metrics() -> (Status, String) {
         .iter()
         .map(|lift| (lift.popup.title.clone(), lift.popup.status.clone()))
         .collect();
+    let slopes: Vec<(String, SlopeStatus)> = api_data
+        .as_ref()
+        .unwrap()
+        .slopes
+        .iter()
+        .map(|slope| (slope.popup.title.clone(), slope.popup.status.clone()))
+        .collect();
 
-    let encoded = lifts
+    let lifts_encoded = lifts
         .iter()
         .map(|(name, status)| {
             format!(
@@ -44,5 +49,21 @@ pub async fn get_metrics() -> (Status, String) {
         .collect::<Vec<String>>()
         .join("\n");
 
-    (Status::Ok, encoded.clone())
+    let slopes_encoded = slopes
+        .iter()
+        .map(|(name, status)| {
+            format!(
+                "slope{{name=\"{}\"}} {}",
+                name,
+                if let SlopeStatus::Open = status {
+                    1
+                } else {
+                    0
+                },
+            )
+        })
+        .collect::<Vec<String>>()
+        .join("\n");
+
+    (Status::Ok, format!("{}\n{}", lifts_encoded, slopes_encoded))
 }
