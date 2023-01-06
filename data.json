@@ -1,0 +1,1583 @@
+{
+    "lifts": [
+        {
+            "popup": {
+                "lynx-type": "lift",
+                "title": "Sechszeigerbahn",
+                "additional-info": {
+                    "length": 997,
+                    "capacity": 1440,
+                    "altitude-valley": 2024,
+                    "altitude-mountain": 2370
+                },
+                "oid": "27099",
+                "status": "open",
+                "id": "8545",
+                "subtitle": "2-chair lift",
+                "clients-sub-id": 2602
+            },
+            "number": null,
+            "type": 2602,
+            "icon": "no_icon",
+            "iconOrientation": "right",
+            "status": "open",
+            "id": "L_8545"
+        },
+        {
+            "popup": {
+                "lynx-type": "lift",
+                "title": "Panoramabahn",
+                "additional-info": {
+                    "length": 1405,
+                    "capacity": 2755,
+                    "altitude-valley": 1802,
+                    "altitude-mountain": 2370
+                },
+                "oid": "27101",
+                "status": "open",
+                "id": "8542",
+                "subtitle": "6-chair lift",
+                "clients-sub-id": 2605
+            },
+            "number": null,
+            "type": 2605,
+            "icon": "no_icon",
+            "iconOrientation": "right",
+            "status": "open",
+            "id": "L_8542"
+        },
+        {
+            "popup": {
+                "lynx-type": "lift",
+                "title": "Zirbenbahn",
+                "additional-info": {
+                    "length": 1026,
+                    "capacity": 2400,
+                    "altitude-valley": 1959,
+                    "altitude-mountain": 2391
+                },
+                "oid": "27102",
+                "status": "open",
+                "id": "8543",
+                "subtitle": "6-chair lift",
+                "clients-sub-id": 2605
+            },
+            "number": null,
+            "type": 2605,
+            "icon": "no_icon",
+            "iconOrientation": "right",
+            "status": "open",
+            "id": "L_8543"
+        },
+        {
+            "popup": {
+                "lynx-type": "lift",
+                "title": "Hochzeiger 2.5",
+                "additional-info": {
+                    "length": 1296,
+                    "capacity": 3200,
+                    "altitude-valley": 1991,
+                    "altitude-mountain": 2492
+                },
+                "oid": "27100",
+                "status": "open",
+                "id": "8544",
+                "subtitle": "8-chair lift",
+                "clients-sub-id": 2606
+            },
+            "number": null,
+            "type": 2606,
+            "icon": "no_icon",
+            "iconOrientation": "right",
+            "status": "open",
+            "id": "L_8544"
+        },
+        {
+            "popup": {
+                "lynx-type": "lift",
+                "title": "Zollberglift",
+                "additional-info": {
+                    "length": 637,
+                    "capacity": 1126,
+                    "altitude-valley": 1990,
+                    "altitude-mountain": 2223
+                },
+                "oid": "27104",
+                "status": "closed",
+                "id": "8546",
+                "subtitle": "T-bar",
+                "clients-sub-id": 2607
+            },
+            "number": null,
+            "type": 2607,
+            "icon": "no_icon",
+            "iconOrientation": "right",
+            "status": "closed",
+            "id": "L_8546"
+        },
+        {
+            "popup": {
+                "lynx-type": "lift",
+                "title": "Hahntennenlift",
+                "additional-info": {
+                    "length": 159,
+                    "capacity": 800,
+                    "altitude-valley": 2025,
+                    "altitude-mountain": 2054
+                },
+                "oid": "27105",
+                "status": "open",
+                "id": "8547",
+                "subtitle": "T-bar",
+                "clients-sub-id": 2607
+            },
+            "number": null,
+            "type": 2607,
+            "icon": "no_icon",
+            "iconOrientation": "right",
+            "status": "open",
+            "id": "L_8547"
+        },
+        {
+            "popup": {
+                "lynx-type": "lift",
+                "title": "Lisslift",
+                "additional-info": {
+                    "length": 375,
+                    "capacity": 793,
+                    "altitude-valley": 1471,
+                    "altitude-mountain": 1565
+                },
+                "oid": "27106",
+                "status": "open",
+                "id": "8548",
+                "subtitle": "T-bar",
+                "clients-sub-id": 2607
+            },
+            "number": null,
+            "type": 2607,
+            "icon": "no_icon",
+            "iconOrientation": "right",
+            "status": "open",
+            "id": "L_8548"
+        },
+        {
+            "popup": {
+                "lynx-type": "lift",
+                "title": "Wiesenlift",
+                "additional-info": {
+                    "length": 205,
+                    "capacity": 731,
+                    "altitude-valley": 1468,
+                    "altitude-mountain": 1514
+                },
+                "oid": "27107",
+                "status": "closed",
+                "id": "8549",
+                "subtitle": "T-bar",
+                "clients-sub-id": 2607
+            },
+            "number": null,
+            "type": 2607,
+            "icon": "no_icon",
+            "iconOrientation": "right",
+            "status": "closed",
+            "id": "L_8549"
+        },
+        {
+            "popup": {
+                "lynx-type": "lift",
+                "title": "Hochzeigerbahn",
+                "additional-info": {
+                    "length": 1733,
+                    "capacity": 2494,
+                    "altitude-valley": 1468,
+                    "altitude-mountain": 2026
+                },
+                "oid": "27103",
+                "status": "open",
+                "id": "8541",
+                "subtitle": "gondola lift",
+                "clients-sub-id": 2621
+            },
+            "number": null,
+            "type": 2621,
+            "icon": "no_icon",
+            "iconOrientation": "right",
+            "status": "open",
+            "id": "L_8541"
+        }
+    ],
+    "slopes": [
+        {
+            "popup": {
+                "lynx-type": "slope",
+                "number": "1",
+                "title": "1 Familien-Abfahrt",
+                "additional-info": {
+                    "length-open": 0
+                },
+                "oid": "27078",
+                "status": "open",
+                "id": "85420",
+                "subtitle": "slope (easy)",
+                "clients-sub-id": 2614
+            },
+            "number": "1",
+            "type": 2614,
+            "icon": "no_icon",
+            "iconOrientation": null,
+            "status": "open",
+            "id": "R_85420"
+        },
+        {
+            "popup": {
+                "lynx-type": "slope",
+                "number": "1a",
+                "title": "1a Familien-Abfahrt",
+                "additional-info": {
+                    "length-open": 0
+                },
+                "oid": "27079",
+                "status": "open",
+                "id": "85421",
+                "subtitle": "slope (easy)",
+                "clients-sub-id": 2614
+            },
+            "number": "1a",
+            "type": 2614,
+            "icon": "no_icon",
+            "iconOrientation": null,
+            "status": "open",
+            "id": "R_85421"
+        },
+        {
+            "popup": {
+                "lynx-type": "slope",
+                "number": "1b",
+                "title": "1b Familien-Abfahrt",
+                "oid": "27096",
+                "status": "open",
+                "id": "85446",
+                "subtitle": "slope (easy)",
+                "clients-sub-id": 2614
+            },
+            "number": "1b",
+            "type": 2614,
+            "icon": "no_icon",
+            "iconOrientation": null,
+            "status": "open",
+            "id": "R_85446"
+        },
+        {
+            "popup": {
+                "lynx-type": "slope",
+                "number": "1c",
+                "title": "1c Tal-Abfahrt",
+                "oid": "27097",
+                "status": "closed",
+                "id": "85447",
+                "subtitle": "slope (easy)",
+                "clients-sub-id": 2614
+            },
+            "number": "1c",
+            "type": 2614,
+            "icon": "no_icon",
+            "iconOrientation": null,
+            "status": "closed",
+            "id": "R_85447"
+        },
+        {
+            "popup": {
+                "lynx-type": "slope",
+                "number": "2",
+                "title": "2 FIS-Abfahrt",
+                "additional-info": {
+                    "length-open": 0
+                },
+                "oid": "27080",
+                "status": "open",
+                "id": "85422",
+                "subtitle": "slope (medium)",
+                "clients-sub-id": 2615
+            },
+            "number": "2",
+            "type": 2615,
+            "icon": "no_icon",
+            "iconOrientation": null,
+            "status": "open",
+            "id": "R_85422"
+        },
+        {
+            "popup": {
+                "lynx-type": "slope",
+                "number": "2a",
+                "title": "2a Tal-Abfahrt",
+                "oid": "27081",
+                "status": "open",
+                "id": "85423",
+                "subtitle": "slope (medium)",
+                "clients-sub-id": 2615
+            },
+            "number": "2a",
+            "type": 2615,
+            "icon": "no_icon",
+            "iconOrientation": null,
+            "status": "open",
+            "id": "R_85423"
+        },
+        {
+            "popup": {
+                "lynx-type": "slope",
+                "number": "6",
+                "title": "6 Zollberg-Abfahrt",
+                "additional-info": {
+                    "length-open": 0
+                },
+                "oid": "27085",
+                "status": "closed",
+                "id": "85427",
+                "subtitle": "slope (medium)",
+                "clients-sub-id": 2615
+            },
+            "number": "6",
+            "type": 2615,
+            "icon": "no_icon",
+            "iconOrientation": null,
+            "status": "closed",
+            "id": "R_85427"
+        },
+        {
+            "popup": {
+                "lynx-type": "slope",
+                "number": "7",
+                "title": "7 Sechszeiger-Abfahrt",
+                "additional-info": {
+                    "length-open": 0
+                },
+                "oid": "27086",
+                "status": "open",
+                "id": "85428",
+                "subtitle": "slope (medium)",
+                "clients-sub-id": 2615
+            },
+            "number": "7",
+            "type": 2615,
+            "icon": "no_icon",
+            "iconOrientation": null,
+            "status": "open",
+            "id": "R_85428"
+        },
+        {
+            "popup": {
+                "lynx-type": "slope",
+                "number": "8",
+                "title": "8 Kalbenalm-Abfahrt",
+                "additional-info": {
+                    "length-open": 0
+                },
+                "oid": "27087",
+                "status": "open",
+                "id": "85429",
+                "subtitle": "slope (medium)",
+                "clients-sub-id": 2615
+            },
+            "number": "8",
+            "type": 2615,
+            "icon": "no_icon",
+            "iconOrientation": null,
+            "status": "open",
+            "id": "R_85429"
+        },
+        {
+            "popup": {
+                "lynx-type": "slope",
+                "number": "9",
+                "title": "9 Niederjöchl-Abfahrt",
+                "additional-info": {
+                    "length-open": 0
+                },
+                "oid": "27088",
+                "status": "open",
+                "id": "85430",
+                "subtitle": "slope (medium)",
+                "clients-sub-id": 2615
+            },
+            "number": "9",
+            "type": 2615,
+            "icon": "no_icon",
+            "iconOrientation": null,
+            "status": "open",
+            "id": "R_85430"
+        },
+        {
+            "popup": {
+                "lynx-type": "slope",
+                "number": "10",
+                "title": "10 Panorama-Abfahrt",
+                "additional-info": {
+                    "length-open": 0
+                },
+                "oid": "27091",
+                "status": "open",
+                "id": "85431",
+                "subtitle": "slope (medium)",
+                "clients-sub-id": 2615
+            },
+            "number": "10",
+            "type": 2615,
+            "icon": "no_icon",
+            "iconOrientation": null,
+            "status": "open",
+            "id": "R_85431"
+        },
+        {
+            "popup": {
+                "lynx-type": "slope",
+                "number": "10a",
+                "title": "10a Panorama-Abfahrt",
+                "oid": "27092",
+                "status": "closed",
+                "id": "85449",
+                "subtitle": "slope (medium)",
+                "clients-sub-id": 2615
+            },
+            "number": "10a",
+            "type": 2615,
+            "icon": "no_icon",
+            "iconOrientation": null,
+            "status": "closed",
+            "id": "R_85449"
+        },
+        {
+            "popup": {
+                "lynx-type": "slope",
+                "number": "11",
+                "title": "11 Zirben-Abfahrt",
+                "additional-info": {
+                    "length-open": 0
+                },
+                "oid": "27093",
+                "status": "open",
+                "id": "85432",
+                "subtitle": "slope (medium)",
+                "clients-sub-id": 2615
+            },
+            "number": "11",
+            "type": 2615,
+            "icon": "no_icon",
+            "iconOrientation": null,
+            "status": "open",
+            "id": "R_85432"
+        },
+        {
+            "popup": {
+                "lynx-type": "slope",
+                "number": "2b",
+                "title": "2b Tal-Abfahrt",
+                "oid": "27098",
+                "status": "open",
+                "id": "85448",
+                "subtitle": "slope (medium)",
+                "clients-sub-id": 2615
+            },
+            "number": "2b",
+            "type": 2615,
+            "icon": "no_icon",
+            "iconOrientation": null,
+            "status": "open",
+            "id": "R_85448"
+        },
+        {
+            "popup": {
+                "lynx-type": "slope",
+                "title": "6a Zollberg-Abfahrt",
+                "oid": "62217",
+                "status": "closed",
+                "id": "10049484",
+                "subtitle": "slope (medium)",
+                "clients-sub-id": 2615
+            },
+            "number": null,
+            "type": 2615,
+            "icon": "no_icon",
+            "iconOrientation": "right",
+            "status": "closed",
+            "id": "R_10049484"
+        },
+        {
+            "popup": {
+                "lynx-type": "slope",
+                "title": "9a Niederjöchl-Abfahrt",
+                "oid": "62218",
+                "status": "closed",
+                "id": "10049485",
+                "subtitle": "slope (medium)",
+                "clients-sub-id": 2615
+            },
+            "number": null,
+            "type": 2615,
+            "icon": "no_icon",
+            "iconOrientation": "right",
+            "status": "closed",
+            "id": "R_10049485"
+        },
+        {
+            "popup": {
+                "lynx-type": "slope",
+                "number": "3",
+                "title": "3 Benni Raich-Abfahrt",
+                "additional-info": {
+                    "length-open": 0
+                },
+                "oid": "27082",
+                "status": "open",
+                "id": "85424",
+                "subtitle": "slope (difficult)",
+                "clients-sub-id": 2616
+            },
+            "number": "3",
+            "type": 2616,
+            "icon": "no_icon",
+            "iconOrientation": null,
+            "status": "open",
+            "id": "R_85424"
+        },
+        {
+            "popup": {
+                "lynx-type": "slope",
+                "number": "4",
+                "title": "4 Rotmoos-Abfahrt",
+                "additional-info": {
+                    "length-open": 0
+                },
+                "oid": "27083",
+                "status": "closed",
+                "id": "85425",
+                "subtitle": "slope (difficult)",
+                "clients-sub-id": 2616
+            },
+            "number": "4",
+            "type": 2616,
+            "icon": "no_icon",
+            "iconOrientation": null,
+            "status": "closed",
+            "id": "R_85425"
+        },
+        {
+            "popup": {
+                "lynx-type": "slope",
+                "number": "5",
+                "title": "5 Kanonenrohr",
+                "additional-info": {
+                    "length-open": 0
+                },
+                "oid": "27084",
+                "status": "closed",
+                "id": "85426",
+                "subtitle": "slope (difficult)",
+                "clients-sub-id": 2616
+            },
+            "number": "5",
+            "type": 2616,
+            "icon": "no_icon",
+            "iconOrientation": null,
+            "status": "closed",
+            "id": "R_85426"
+        },
+        {
+            "popup": {
+                "lynx-type": "slope",
+                "number": "12",
+                "title": "12 Zirbenfall-Abfahrt",
+                "additional-info": {
+                    "length-open": 0
+                },
+                "oid": "27129",
+                "status": "closed",
+                "id": "85433",
+                "subtitle": "slope (difficult)",
+                "clients-sub-id": 2616
+            },
+            "number": "12",
+            "type": 2616,
+            "icon": "no_icon",
+            "iconOrientation": null,
+            "status": "closed",
+            "id": "R_85433"
+        },
+        {
+            "popup": {
+                "lynx-type": "slope",
+                "title": "12a Zirbenfall-Abfahrt",
+                "oid": "62219",
+                "status": "open",
+                "id": "10049486",
+                "subtitle": "slope (difficult)",
+                "clients-sub-id": 2616
+            },
+            "number": null,
+            "type": 2616,
+            "icon": "no_icon",
+            "iconOrientation": "right",
+            "status": "open",
+            "id": "R_10049486"
+        },
+        {
+            "popup": {
+                "lynx-type": "slope",
+                "title": "A Buckelpiste",
+                "additional-info": {
+                    "length-open": 0
+                },
+                "oid": "27111",
+                "status": "closed",
+                "id": "85440",
+                "subtitle": "skiroute",
+                "clients-sub-id": 2617
+            },
+            "number": null,
+            "type": 2617,
+            "icon": "no_icon",
+            "iconOrientation": null,
+            "status": "closed",
+            "id": "R_85440"
+        },
+        {
+            "popup": {
+                "lynx-type": "slope",
+                "title": "B Hochzeigerloch",
+                "additional-info": {
+                    "length-open": 0
+                },
+                "oid": "27112",
+                "status": "closed",
+                "id": "85441",
+                "subtitle": "skiroute",
+                "clients-sub-id": 2617
+            },
+            "number": null,
+            "type": 2617,
+            "icon": "no_icon",
+            "iconOrientation": null,
+            "status": "closed",
+            "id": "R_85441"
+        },
+        {
+            "popup": {
+                "lynx-type": "slope",
+                "title": "C Narrenkopf",
+                "additional-info": {
+                    "length-open": 0
+                },
+                "oid": "27113",
+                "status": "closed",
+                "id": "85442",
+                "subtitle": "skiroute",
+                "clients-sub-id": 2617
+            },
+            "number": null,
+            "type": 2617,
+            "icon": "no_icon",
+            "iconOrientation": null,
+            "status": "closed",
+            "id": "R_85442"
+        }
+    ],
+    "routes": [
+        {
+            "popup": {
+                "lynx-type": "route",
+                "title": "Winterwanderung Hochzeiger Mittelstation - Talstation",
+                "oid": "27110",
+                "status": "unknown",
+                "id": "27110",
+                "subtitle": "Winter hiking",
+                "clients-sub-id": 707
+            },
+            "number": null,
+            "type": 707,
+            "icon": "no_icon",
+            "iconOrientation": "right",
+            "status": "unknown",
+            "id": "707_27110"
+        },
+        {
+            "popup": {
+                "desc": "yes",
+                "lynx-type": "route",
+                "title": "Zirbenweg Winterwanderrunde",
+                "oid": "27137",
+                "status": "unknown",
+                "id": "27137",
+                "subtitle": "Winter hiking",
+                "clients-sub-id": 707
+            },
+            "number": null,
+            "type": 707,
+            "icon": "no_icon",
+            "iconOrientation": "right",
+            "status": "unknown",
+            "id": "707_27137"
+        },
+        {
+            "popup": {
+                "lynx-type": "route",
+                "title": "Wassertalweg",
+                "oid": "43418",
+                "status": "unknown",
+                "id": "43418",
+                "subtitle": "Winter hiking",
+                "clients-sub-id": 707
+            },
+            "number": null,
+            "type": 707,
+            "icon": "no_icon",
+            "iconOrientation": "right",
+            "status": "unknown",
+            "id": "707_43418"
+        },
+        {
+            "popup": {
+                "lynx-type": "route",
+                "title": "Winterwanderweg Jerzens Dorf",
+                "oid": "43419",
+                "status": "unknown",
+                "id": "43419",
+                "subtitle": "Winter hiking",
+                "clients-sub-id": 707
+            },
+            "number": null,
+            "type": 707,
+            "icon": "no_icon",
+            "iconOrientation": "right",
+            "status": "unknown",
+            "id": "707_43419"
+        },
+        {
+            "popup": {
+                "desc": "yes",
+                "lynx-type": "route",
+                "title": "Toboggan night run",
+                "additional-info": {
+                    "length": 6000,
+                    "length-open": 0
+                },
+                "oid": "27108",
+                "status": "closed",
+                "id": "85416",
+                "subtitle": "Toboggan",
+                "clients-sub-id": 709
+            },
+            "number": null,
+            "type": 709,
+            "icon": "no_icon",
+            "iconOrientation": "right",
+            "status": "closed",
+            "id": "709_85416"
+        },
+        {
+            "popup": {
+                "desc": "yes",
+                "lynx-type": "route",
+                "title": "Toboggan run",
+                "additional-info": {
+                    "length": 6000,
+                    "length-open": 0
+                },
+                "oid": "27109",
+                "status": "closed",
+                "id": "85410",
+                "subtitle": "Toboggan",
+                "clients-sub-id": 709
+            },
+            "number": null,
+            "type": 709,
+            "icon": "no_icon",
+            "iconOrientation": "right",
+            "status": "closed",
+            "id": "709_85410"
+        },
+        {
+            "popup": {
+                "desc": "yes",
+                "lynx-type": "route",
+                "difficulty": "medium",
+                "title": "Ski touring",
+                "additional-info": {
+                    "difficulty": "medium"
+                },
+                "oid": "62220",
+                "status": "unknown",
+                "id": "62220",
+                "subtitle": "Ski touring",
+                "clients-sub-id": 720
+            },
+            "number": null,
+            "type": "720-medium",
+            "icon": "no_icon",
+            "iconOrientation": "left",
+            "status": "unknown",
+            "id": "720_62220"
+        },
+        {
+            "popup": {
+                "desc": "yes",
+                "lynx-type": "route",
+                "difficulty": "difficult",
+                "title": "Ski touring",
+                "additional-info": {
+                    "difficulty": "difficult"
+                },
+                "oid": "62221",
+                "status": "unknown",
+                "id": "62221",
+                "subtitle": "Ski touring",
+                "clients-sub-id": 720
+            },
+            "number": null,
+            "type": "720-difficult",
+            "icon": "no_icon",
+            "iconOrientation": "left",
+            "status": "unknown",
+            "id": "720_62221"
+        },
+        {
+            "popup": {
+                "lynx-type": "route",
+                "title": "Nachtrodeln",
+                "additional-info": {
+                    "length-open": 0
+                },
+                "oid": "77798",
+                "status": "closed",
+                "id": "85416",
+                "subtitle": "Night skiing",
+                "clients-sub-id": 747
+            },
+            "number": null,
+            "type": 747,
+            "icon": "no_icon",
+            "iconOrientation": "right",
+            "status": "closed",
+            "id": "747_85416"
+        }
+    ],
+    "pois": {
+        "3201": [
+            {
+                "popup": {
+                    "lynx-type": "poi",
+                    "title": "Parking lot valley station",
+                    "oid": "27125",
+                    "id": "27125",
+                    "subtitle": "parking",
+                    "clients-sub-id": 3201,
+                    "status": "unknown"
+                },
+                "number": null,
+                "icon": "svg/soelden/parkplatz.svg",
+                "iconOrientation": null,
+                "status": "unknown",
+                "id": "27125",
+                "position": {
+                    "x": 519,
+                    "y": 502
+                }
+            },
+            {
+                "popup": {
+                    "lynx-type": "poi",
+                    "title": "Parking lot",
+                    "oid": "27126",
+                    "id": "27126",
+                    "subtitle": "parking",
+                    "clients-sub-id": 3201,
+                    "status": "unknown"
+                },
+                "number": null,
+                "icon": "svg/soelden/parkplatz.svg",
+                "iconOrientation": null,
+                "status": "unknown",
+                "id": "27126",
+                "position": {
+                    "x": 455,
+                    "y": 516
+                }
+            }
+        ],
+        "3216": [
+            {
+                "popup": {
+                    "lynx-type": "poi",
+                    "title": "WLAN Sechszeiger",
+                    "oid": "62228",
+                    "status": "unknown",
+                    "id": "62228",
+                    "subtitle": "WiFi",
+                    "clients-sub-id": 3216
+                },
+                "number": null,
+                "icon": "svg/default/wlan.svg",
+                "iconOrientation": "right",
+                "status": "unknown",
+                "id": "62228",
+                "position": {
+                    "x": 280,
+                    "y": 250
+                }
+            },
+            {
+                "popup": {
+                    "lynx-type": "poi",
+                    "title": "WLAN",
+                    "oid": "62229",
+                    "status": "unknown",
+                    "id": "62229",
+                    "subtitle": "WiFi",
+                    "clients-sub-id": 3216
+                },
+                "number": null,
+                "icon": "svg/default/wlan.svg",
+                "iconOrientation": "right",
+                "status": "unknown",
+                "id": "62229",
+                "position": {
+                    "x": 381,
+                    "y": 250
+                }
+            },
+            {
+                "popup": {
+                    "lynx-type": "poi",
+                    "title": "WLAN middle station",
+                    "oid": "62230",
+                    "status": "unknown",
+                    "id": "62230",
+                    "subtitle": "WiFi",
+                    "clients-sub-id": 3216
+                },
+                "number": null,
+                "icon": "svg/default/wlan.svg",
+                "iconOrientation": "right",
+                "status": "unknown",
+                "id": "62230",
+                "position": {
+                    "x": 562,
+                    "y": 341
+                }
+            },
+            {
+                "popup": {
+                    "lynx-type": "poi",
+                    "title": "WLAN valley station",
+                    "oid": "62231",
+                    "status": "unknown",
+                    "id": "62231",
+                    "subtitle": "WiFi",
+                    "clients-sub-id": 3216
+                },
+                "number": null,
+                "icon": "svg/default/wlan.svg",
+                "iconOrientation": "right",
+                "status": "unknown",
+                "id": "62231",
+                "position": {
+                    "x": 576,
+                    "y": 494
+                }
+            },
+            {
+                "popup": {
+                    "lynx-type": "poi",
+                    "title": "Hochzeiger 2.5",
+                    "oid": "78011",
+                    "status": "unknown",
+                    "id": "78011",
+                    "subtitle": "WiFi",
+                    "clients-sub-id": 3216
+                },
+                "number": null,
+                "icon": "svg/default/wlan.svg",
+                "iconOrientation": "right",
+                "status": "unknown",
+                "id": "78011",
+                "position": {
+                    "x": 730,
+                    "y": 217
+                }
+            }
+        ],
+        "3403": [
+            {
+                "popup": {
+                    "desc": "yes",
+                    "lynx-type": "poi",
+                    "title": "Selftime Race",
+                    "oid": "62227",
+                    "status": "unknown",
+                    "id": "62227",
+                    "subtitle": "time measurement",
+                    "clients-sub-id": 3403
+                },
+                "number": null,
+                "icon": "svg/default/geschwindigkeitmessstrecke.svg",
+                "iconOrientation": "right",
+                "status": "unknown",
+                "id": "62227",
+                "position": {
+                    "x": 649,
+                    "y": 252
+                }
+            }
+        ],
+        "3205": [
+            {
+                "popup": {
+                    "desc": "yes",
+                    "lynx-type": "poi",
+                    "title": "Skiing rules track",
+                    "oid": "62235",
+                    "status": "unknown",
+                    "id": "62235",
+                    "subtitle": "childrens area",
+                    "clients-sub-id": 3205
+                },
+                "number": null,
+                "icon": "svg/default/kinderland.svg",
+                "iconOrientation": "right",
+                "status": "unknown",
+                "id": "62235",
+                "position": {
+                    "x": 149,
+                    "y": 340
+                }
+            },
+            {
+                "popup": {
+                    "lynx-type": "poi",
+                    "title": "Childrens area",
+                    "oid": "62236",
+                    "status": "unknown",
+                    "id": "62236",
+                    "subtitle": "childrens area",
+                    "clients-sub-id": 3205
+                },
+                "number": null,
+                "icon": "svg/default/kinderland.svg",
+                "iconOrientation": "right",
+                "status": "unknown",
+                "id": "62236",
+                "position": {
+                    "x": 571,
+                    "y": 340
+                }
+            },
+            {
+                "popup": {
+                    "lynx-type": "poi",
+                    "title": "Childrens area",
+                    "oid": "62238",
+                    "status": "unknown",
+                    "id": "62238",
+                    "subtitle": "childrens area",
+                    "clients-sub-id": 3205
+                },
+                "number": null,
+                "icon": "svg/default/kinderland.svg",
+                "iconOrientation": "right",
+                "status": "unknown",
+                "id": "62238",
+                "position": {
+                    "x": 598,
+                    "y": 486
+                }
+            }
+        ],
+        "3215": [
+            {
+                "popup": {
+                    "lynx-type": "poi",
+                    "title": "360° panorama",
+                    "oid": "62233",
+                    "status": "unknown",
+                    "id": "62233",
+                    "subtitle": "viewpoint",
+                    "clients-sub-id": 3215
+                },
+                "number": null,
+                "icon": "svg/default/panorama.svg",
+                "iconOrientation": "right",
+                "status": "unknown",
+                "id": "62233",
+                "position": {
+                    "x": 371,
+                    "y": 250
+                }
+            }
+        ],
+        "2810": [
+            {
+                "popup": {
+                    "desc": "https://webtv.feratel.com/webtv/?design=v3&pg=A2CA5813-2332-446C-A7E6-3A5480304592&cam=5583&c0=0",
+                    "lynx-type": "poi",
+                    "title": "Jerzens valley station",
+                    "thumbnail": "https://images.intermaps.com/web_skimap_thumbs_f4/default.aspx?link=https%3A%2F%2Fwtvthmb.feratel.com%2Fthumbnails%2F5583.jpeg%3Ft%3D38%26dcsdesign%3DWTP_iSKI_APP%26design%3Dv3&img_width=248&img_height=188",
+                    "oid": "27121",
+                    "status": "unknown",
+                    "id": "27121",
+                    "subtitle": "Webcams (Feratel)",
+                    "clients-sub-id": 2810
+                },
+                "number": null,
+                "icon": "svg/default/livecam.svg",
+                "iconOrientation": null,
+                "status": "unknown",
+                "id": "27121",
+                "position": {
+                    "x": 567,
+                    "y": 494
+                }
+            },
+            {
+                "popup": {
+                    "desc": "https://webtv.feratel.com/webtv/?design=v3&pg=A2CA5813-2332-446C-A7E6-3A5480304592&cam=25580&c0=0",
+                    "lynx-type": "poi",
+                    "title": "Jerzens Sechszeiger",
+                    "thumbnail": "https://images.intermaps.com/web_skimap_thumbs_f4/default.aspx?link=https%3A%2F%2Fwtvthmb.feratel.com%2Fthumbnails%2F25580.jpeg%3Ft%3D38%26dcsdesign%3DWTP_iSKI_APP%26design%3Dv3&img_width=248&img_height=188",
+                    "oid": "27122",
+                    "status": "unknown",
+                    "id": "27122",
+                    "subtitle": "Webcams (Feratel)",
+                    "clients-sub-id": 2810
+                },
+                "number": null,
+                "icon": "svg/default/livecam.svg",
+                "iconOrientation": null,
+                "status": "unknown",
+                "id": "27122",
+                "position": {
+                    "x": 291,
+                    "y": 250
+                }
+            },
+            {
+                "popup": {
+                    "desc": "https://webtv.feratel.com/webtv/?design=v3&pg=A2CA5813-2332-446C-A7E6-3A5480304592&cam=5582&c0=0",
+                    "lynx-type": "poi",
+                    "title": "Jerzens Mittelstation",
+                    "thumbnail": "https://images.intermaps.com/web_skimap_thumbs_f4/default.aspx?link=https%3A%2F%2Fwtvthmb.feratel.com%2Fthumbnails%2F5582.jpeg%3Ft%3D38%26dcsdesign%3DWTP_iSKI_APP%26design%3Dv3&img_width=248&img_height=188",
+                    "oid": "27123",
+                    "status": "unknown",
+                    "id": "27123",
+                    "subtitle": "Webcams (Feratel)",
+                    "clients-sub-id": 2810
+                },
+                "number": null,
+                "icon": "svg/default/livecam.svg",
+                "iconOrientation": null,
+                "status": "unknown",
+                "id": "27123",
+                "position": {
+                    "x": 548,
+                    "y": 340
+                }
+            },
+            {
+                "popup": {
+                    "desc": "https://webtv.feratel.com/webtv/?design=v3&pg=A2CA5813-2332-446C-A7E6-3A5480304592&cam=5580&c0=0",
+                    "lynx-type": "poi",
+                    "title": "Zirbenbahn mountain station",
+                    "thumbnail": "https://images.intermaps.com/web_skimap_thumbs_f4/default.aspx?link=https%3A%2F%2Fwtvthmb.feratel.com%2Fthumbnails%2F5580.jpeg%3Ft%3D38%26dcsdesign%3DWTP_iSKI_APP%26design%3Dv3&img_width=248&img_height=188",
+                    "oid": "27124",
+                    "status": "unknown",
+                    "id": "27124",
+                    "subtitle": "Webcams (Feratel)",
+                    "clients-sub-id": 2810
+                },
+                "number": null,
+                "icon": "svg/default/livecam.svg",
+                "iconOrientation": null,
+                "status": "unknown",
+                "id": "27124",
+                "position": {
+                    "x": 366,
+                    "y": 262
+                }
+            },
+            {
+                "popup": {
+                    "desc": "https://webtv.feratel.com/webtv/?design=v3&pg=A2CA5813-2332-446C-A7E6-3A5480304592&cam=5579&c0=0",
+                    "lynx-type": "poi",
+                    "title": "Hochzeiger 2.5",
+                    "thumbnail": "https://images.intermaps.com/web_skimap_thumbs_f4/default.aspx?link=https%3A%2F%2Fwtvthmb.feratel.com%2Fthumbnails%2F5579.jpeg%3Ft%3D38%26dcsdesign%3DWTP_iSKI_APP%26design%3Dv3&img_width=248&img_height=188",
+                    "oid": "78013",
+                    "status": "unknown",
+                    "id": "78013",
+                    "subtitle": "Webcams (Feratel)",
+                    "clients-sub-id": 2810
+                },
+                "number": null,
+                "icon": "svg/default/livecam.svg",
+                "iconOrientation": "right",
+                "status": "unknown",
+                "id": "78013",
+                "position": {
+                    "x": 737,
+                    "y": 213
+                }
+            }
+        ],
+        "3462": [
+            {
+                "popup": {
+                    "lynx-type": "poi",
+                    "title": "Photopoint",
+                    "oid": "62232",
+                    "status": "unknown",
+                    "id": "62232",
+                    "subtitle": "Photopoint",
+                    "clients-sub-id": 3462
+                },
+                "number": null,
+                "icon": "svg/default/photo.svg",
+                "iconOrientation": "right",
+                "status": "unknown",
+                "id": "62232",
+                "position": {
+                    "x": 301,
+                    "y": 250
+                }
+            }
+        ],
+        "3402": [
+            {
+                "popup": {
+                    "lynx-type": "poi",
+                    "title": "Racetrack",
+                    "oid": "62234",
+                    "status": "unknown",
+                    "id": "62234",
+                    "subtitle": "ski race track",
+                    "clients-sub-id": 3402
+                },
+                "number": null,
+                "icon": "svg/default/rennstrecke.svg",
+                "iconOrientation": "right",
+                "status": "unknown",
+                "id": "62234",
+                "position": {
+                    "x": 565,
+                    "y": 428
+                }
+            }
+        ],
+        "3219": [
+            {
+                "popup": {
+                    "desc": "yes",
+                    "lynx-type": "poi",
+                    "title": "Sports shop Lentsch",
+                    "oid": "27128",
+                    "status": "unknown",
+                    "id": "27128",
+                    "subtitle": "ski rental",
+                    "clients-sub-id": 3219
+                },
+                "number": null,
+                "icon": "svg/default/skiverleih.svg",
+                "iconOrientation": null,
+                "status": "unknown",
+                "id": "27128",
+                "position": {
+                    "x": 578,
+                    "y": 495
+                }
+            },
+            {
+                "popup": {
+                    "desc": "yes",
+                    "lynx-type": "poi",
+                    "title": "Sports shop Schultes",
+                    "oid": "27130",
+                    "status": "unknown",
+                    "id": "27130",
+                    "subtitle": "ski rental",
+                    "clients-sub-id": 3219
+                },
+                "number": null,
+                "icon": "svg/default/skiverleih.svg",
+                "iconOrientation": null,
+                "status": "unknown",
+                "id": "27130",
+                "position": {
+                    "x": 571,
+                    "y": 497
+                }
+            },
+            {
+                "popup": {
+                    "desc": "yes",
+                    "lynx-type": "poi",
+                    "title": "Intersport Wohlfarter",
+                    "oid": "78012",
+                    "status": "unknown",
+                    "id": "78012",
+                    "subtitle": "ski rental",
+                    "clients-sub-id": 3219
+                },
+                "number": null,
+                "icon": "svg/default/skiverleih.svg",
+                "iconOrientation": "right",
+                "status": "unknown",
+                "id": "78012",
+                "position": {
+                    "x": 554,
+                    "y": 498
+                }
+            }
+        ],
+        "3204": [
+            {
+                "popup": {
+                    "desc": "yes",
+                    "lynx-type": "poi",
+                    "title": "Ski school Hochzeiger-Pitztal",
+                    "oid": "27131",
+                    "status": "unknown",
+                    "id": "27131",
+                    "subtitle": "skiing school",
+                    "clients-sub-id": 3204
+                },
+                "number": null,
+                "icon": "svg/default/skischule.svg",
+                "iconOrientation": null,
+                "status": "unknown",
+                "id": "27131",
+                "position": {
+                    "x": 542,
+                    "y": 502
+                }
+            }
+        ],
+        "3401": [
+            {
+                "popup": {
+                    "desc": "yes",
+                    "lynx-type": "poi",
+                    "title": "Snowpark and Funline",
+                    "oid": "27114",
+                    "status": "open",
+                    "id": "85411",
+                    "subtitle": "Funpark",
+                    "clients-sub-id": 3401
+                },
+                "number": null,
+                "icon": "svg/default/funpark.svg",
+                "iconOrientation": null,
+                "status": "open",
+                "id": "85411",
+                "position": {
+                    "x": 518,
+                    "y": 282
+                }
+            }
+        ],
+        "3207": [
+            {
+                "popup": {
+                    "lynx-type": "poi",
+                    "title": "Mountain rescue",
+                    "oid": "27127",
+                    "id": "27127",
+                    "subtitle": "ski patrol",
+                    "clients-sub-id": 3207,
+                    "status": "unknown"
+                },
+                "number": null,
+                "icon": "svg/default/rettungs.svg",
+                "iconOrientation": null,
+                "status": "unknown",
+                "id": "27127",
+                "position": {
+                    "x": 551,
+                    "y": 341
+                }
+            }
+        ],
+        "3001": [
+            {
+                "popup": {
+                    "lynx-type": "poi",
+                    "title": "Zeigerrestaurant",
+                    "oid": "27115",
+                    "status": "open",
+                    "id": "85460",
+                    "subtitle": "restaurants",
+                    "clients-sub-id": 3001
+                },
+                "number": null,
+                "icon": "svg/default/gastro.svg",
+                "iconOrientation": null,
+                "status": "open",
+                "id": "85460",
+                "position": {
+                    "x": 565,
+                    "y": 340
+                }
+            },
+            {
+                "popup": {
+                    "lynx-type": "poi",
+                    "title": "Tanzalm",
+                    "oid": "27116",
+                    "status": "open",
+                    "id": "85461",
+                    "subtitle": "restaurants",
+                    "clients-sub-id": 3001
+                },
+                "number": null,
+                "icon": "svg/default/gastro.svg",
+                "iconOrientation": null,
+                "status": "open",
+                "id": "85461",
+                "position": {
+                    "x": 507,
+                    "y": 362
+                }
+            },
+            {
+                "popup": {
+                    "lynx-type": "poi",
+                    "title": "Stalderhütte",
+                    "oid": "27117",
+                    "status": "open",
+                    "id": "85462",
+                    "subtitle": "restaurants",
+                    "clients-sub-id": 3001
+                },
+                "number": null,
+                "icon": "svg/default/gastro.svg",
+                "iconOrientation": null,
+                "status": "open",
+                "id": "85462",
+                "position": {
+                    "x": 464,
+                    "y": 398
+                }
+            },
+            {
+                "popup": {
+                    "lynx-type": "poi",
+                    "title": "Hochzeigerhaus",
+                    "oid": "27118",
+                    "status": "open",
+                    "id": "85463",
+                    "subtitle": "restaurants",
+                    "clients-sub-id": 3001
+                },
+                "number": null,
+                "icon": "svg/default/gastro.svg",
+                "iconOrientation": null,
+                "status": "open",
+                "id": "85463",
+                "position": {
+                    "x": 487,
+                    "y": 398
+                }
+            },
+            {
+                "popup": {
+                    "desc": "yes",
+                    "lynx-type": "poi",
+                    "title": "Zirbenbäckerei",
+                    "oid": "62282",
+                    "status": "open",
+                    "id": "85466",
+                    "subtitle": "restaurants",
+                    "clients-sub-id": 3001
+                },
+                "number": null,
+                "icon": "svg/default/gastro.svg",
+                "iconOrientation": "right",
+                "status": "open",
+                "id": "85466",
+                "position": {
+                    "x": 562,
+                    "y": 496
+                }
+            }
+        ]
+    },
+    "lookup": {
+        "Skiing rules track": "62235",
+        "Zirbenbahn mountain station": "27124",
+        "Toboggan night run": "709_85416_group",
+        "9 Niederjöchl-Abfahrt": "R_85430_group",
+        "Jerzens Mittelstation": "27123",
+        "1 Familien-Abfahrt": "R_85420_group",
+        "Intersport Wohlfarter": "78012",
+        "Nachtrodeln": "747_85416_group",
+        "Mountain rescue": "27127",
+        "7 Sechszeiger-Abfahrt": "R_85428_group",
+        "Hochzeigerhaus": "85463",
+        "2a Tal-Abfahrt": "R_85423_group",
+        "Sechszeigerbahn": "L_8545_group",
+        "2 FIS-Abfahrt": "R_85422_group",
+        "2b Tal-Abfahrt": "R_85448_group",
+        "6a Zollberg-Abfahrt": "R_10049484_group",
+        "360° panorama": "62233",
+        "Tanzalm": "85461",
+        "Ski school Hochzeiger-Pitztal": "27131",
+        "C Narrenkopf": "R_85442_group",
+        "B Hochzeigerloch": "R_85441_group",
+        "Stalderhütte": "85462",
+        "12 Zirbenfall-Abfahrt": "R_85433_group",
+        "Parking lot": "27126",
+        "1a Familien-Abfahrt": "R_85421_group",
+        "WLAN valley station": "62231",
+        "1b Familien-Abfahrt": "R_85446_group",
+        "A Buckelpiste": "R_85440_group",
+        "1c Tal-Abfahrt": "R_85447_group",
+        "WLAN Sechszeiger": "62228",
+        "WLAN": "62229",
+        "Snowpark and Funline": "85411",
+        "Selftime Race": "62227",
+        "Zirbenweg Winterwanderrunde": "707_27137_group",
+        "11 Zirben-Abfahrt": "R_85432_group",
+        "6 Zollberg-Abfahrt": "R_85427_group",
+        "Photopoint": "62232",
+        "Sports shop Schultes": "27130",
+        "Zeigerrestaurant": "85460",
+        "Childrens area": "62238",
+        "10a Panorama-Abfahrt": "R_85449_group",
+        "Panoramabahn": "L_8542_group",
+        "Zirbenbäckerei": "85466",
+        "8 Kalbenalm-Abfahrt": "R_85429_group",
+        "Hochzeiger 2.5": "78013",
+        "3 Benni Raich-Abfahrt": "R_85424_group",
+        "9a Niederjöchl-Abfahrt": "R_10049485_group",
+        "Winterwanderweg Jerzens Dorf": "707_43419_group",
+        "Wassertalweg": "707_43418_group",
+        "4 Rotmoos-Abfahrt": "R_85425_group",
+        "Hahntennenlift": "L_8547_group",
+        "10 Panorama-Abfahrt": "R_85431_group",
+        "5 Kanonenrohr": "R_85426_group",
+        "Wiesenlift": "L_8549_group",
+        "Winterwanderung Hochzeiger Mittelstation - Talstation": "707_27110_group",
+        "WLAN middle station": "62230",
+        "Jerzens Sechszeiger": "27122",
+        "12a Zirbenfall-Abfahrt": "R_10049486_group",
+        "Sports shop Lentsch": "27128",
+        "Lisslift": "L_8548_group",
+        "Zirbenbahn": "L_8543_group",
+        "Zollberglift": "L_8546_group",
+        "Racetrack": "62234",
+        "Hochzeigerbahn": "L_8541_group",
+        "Ski touring": "720_62221_group",
+        "Toboggan run": "709_85410_group",
+        "Parking lot valley station": "27125",
+        "Jerzens valley station": "27121"
+    },
+    "lastUpdate": "2023-01-06T08:24:11"
+}

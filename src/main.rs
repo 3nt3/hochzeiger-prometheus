@@ -1,12 +1,14 @@
-use models::ApiData;
+use rocket;
 
 mod models;
+mod hochzeiger;
+mod util;
+mod api;
 
-#[tokio::main]
+#[rocket::main]
 async fn main() -> anyhow::Result<()> {
-    let url = "https://winter.intermaps.com/hochzeiger/data?lang=en";
-    let api_data: ApiData = reqwest::get(url).await?.json().await?;
-    dbg!(api_data);
+
+    let _ = rocket::build().mount("/", rocket::routes![api::get_metrics]).launch().await?;
 
     Ok(())
 }
