@@ -65,5 +65,8 @@ pub async fn get_metrics() -> (Status, String) {
         .collect::<Vec<String>>()
         .join("\n");
 
-    (Status::Ok, format!("{}\n{}", lifts_encoded, slopes_encoded))
+    let slopes_total = format!("slopes_total {}", slopes.len());
+    let lifts_total = format!("lifts_total {}", lifts.len());
+
+    (Status::Ok, vec![lifts_encoded, slopes_encoded, slopes_total, lifts_total].join("\n"))
 }
